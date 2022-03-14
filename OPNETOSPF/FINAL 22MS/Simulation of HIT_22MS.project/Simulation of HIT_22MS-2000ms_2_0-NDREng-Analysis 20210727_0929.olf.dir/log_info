@@ -1,0 +1,12 @@
+
+[Log Info:]
+version :	1
+row_count :	8
+max_log_row :	5000
+max_file_row :	1000
+hide_date :	FALSE
+include_severity :	TRUE
+file_count :	1
+
+[File List:]
+4624_07-27-2021_09.29.23	8	09:29:23 Jul 27 2021	09:29:25 Jul 27 2021
